@@ -2,39 +2,39 @@
 #EXTINF:-1,tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://epg.v1.mk/logo/cctv1.png" group-title="央视",CCTV-1
 http://10.10.10.252:35455/rptv/G_CCTV-1-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV-2
-http://10.10.10.252:35455/itv/6000000001000014161.m3u8?cdn=wasusyt
+http://10.10.10.252:35455/gaoma/cctv2.m3u8
 #EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV-3
 http://10.10.10.252:35455/rptv/G_CCTV-3-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4
-http://10.10.10.252:35455/itv/5000000011000031102.m3u8?cdn=bestzb
+http://10.10.10.252:35455/gaoma/cctv4.m3u8
 #EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV-5
 http://10.10.10.252:35455/rptv/G_CCTV-5-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV-5+
-http://10.10.10.252:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
+http://10.10.10.252:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
 http://10.10.10.252:35455/rptv/G_CCTV-6-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7
-http://10.10.10.252:35455/itv/6000000001000009055.m3u8?cdn=wasusyt
+http://10.10.10.252:35455/gaoma/cctv7.m3u8
 #EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV-8
 http://10.10.10.252:35455/rptv/G_CCTV-8-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="央视",CCTV-9
-http://10.10.10.252:35455/itv/6000000001000032162.m3u8?cdn=wasusyt
+http://10.10.10.252:35455/gaoma/cctv9.m3u8
 #EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV-10
-http://10.10.10.252:35455/itv/5000000004000012827.m3u8?cdn=bestzb
+http://10.10.10.252:35455/gaoma/cctv10.m3u8
 #EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV-11
-http://10.10.10.252:35455/itv/5000000011000031106.m3u8?cdn=bestzb
+http://10.10.10.252:35455/gaoma/cctv11.m3u8
 #EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV-12
-http://10.10.10.252:35455/itv/6000000001000022586.m3u8?cdn=wasusyt
+http://10.10.10.252:35455/gaoma/cctv12.m3u8
 #EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV-13
-http://10.10.10.252:35455/itv/5000000011000031108.m3u8?cdn=bestzb
+http://10.10.10.252:35455/gaoma/cctv13.m3u8
 #EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV-14
-http://10.10.10.252:35455/itv/5000000004000006673.m3u8?cdn=bestzb
+http://10.10.10.252:35455/gaoma/cctv14.m3u8
 #EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV-15
-http://10.10.10.252:35455/itv/5000000011000031109.m3u8?cdn=bestzb
+http://10.10.10.252:35455/gaoma/cctv15.m3u8
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4K频道",CCTV-16
 http://10.10.10.252:35455/rptv/G_CCTV-16-4K.m3u8?license=gitv
 #EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV-17
-http://10.10.10.252:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
+http://10.10.10.252:35455/gaoma/cctv17.m3u8
 #EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.v1.mk/logo/世界地理.png" group-title="央视",世界地理
 http://10.10.10.252:35455/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv
 #EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="央视",风云剧场

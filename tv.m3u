@@ -154,25 +154,25 @@ http://10.10.10.252:35455/itv/5000000010000032212.m3u8?cdn=wasusyt
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="卫视",上海都市
 http://10.10.10.252:35455/itv/5000000010000018926.m3u8?cdn=wasusyt
 #EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="卫视",上海法治天地
-http://10.10.10.252:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
+http://10.10.10.252:35455/itv/2000000002000000014.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="卫视",上海哈哈炫动
 http://10.10.10.252:35455/itv/5000000011000031123.m3u8?cdn=hnbblive
 #EXTINF:-1,tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.v1.mk/logo/纪实人文.png" group-title="卫视",上海纪实人文
-http://10.10.10.252:35455/itv/5000000004000010282.m3u8?cdn=hnbblive
+http://10.10.10.252:35455/itv/5000000004000010282.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="卫视",上海五星体育
-http://10.10.10.252:35455/itv/5000000010000017540.m3u8?cdn=hnbblive
+http://10.10.10.252:35455/itv/5000000010000017540.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="卫视",上海新闻综合
-http://10.10.10.252:35455/itv/5000000011000031110.m3u8?cdn=wasusyt
+http://10.10.10.252:35455/itv/5000000011000031110.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="卫视",北京纪实科教
 http://10.10.10.252:35455/itv/1000000001000001910.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="卫视",北京卡酷少儿
 http://10.10.10.252:35455/itv/7851974109718180595.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="湖南金鹰纪实" tvg-name="湖南金鹰纪实" tvg-logo="https://epg.v1.mk/logo/湖南金鹰纪实.png" group-title="卫视",湖南金鹰纪实
-http://10.10.10.252:35455/itv/5000000011000031203.m3u8?cdn=hnbblive
+http://10.10.10.252:35455/itv/5000000011000031203.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="湖南" tvg-name="湖南" tvg-logo="https://epg.v1.mk/logo/湖南.png" group-title="卫视",湖南快乐垂钓
-http://10.10.10.252:35455/itv/5000000011000031206.m3u8?cdn=hnbblive
+http://10.10.10.252:35455/itv/5000000011000031206.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="湖南茶频道" tvg-name="湖南茶频道" tvg-logo="https://epg.v1.mk/logo/湖南茶频道.png" group-title="卫视",湖南茶频道
-http://10.10.10.252:35455/itv/5000000011000031209.m3u8?cdn=hnbblive
+http://10.10.10.252:35455/itv/5000000011000031209.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="4K频道",华数-4K
 http://10.10.10.252:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.v1.mk/logo/纯享4K.png" group-title="4K频道",纯享-4K
